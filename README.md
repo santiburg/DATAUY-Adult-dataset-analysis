@@ -21,7 +21,7 @@ El objetivo principal de este proyecto, es analizar los datos brindados por el c
 
 
 
-#2. Objetivos.
+# 2. Objetivos.
 
 1. Explorar desigualdades salariales por género y raza:
     * Analizar la distribución del nivel de ingresos (mayor o menor a 50K) entre hombres y mujeres, identificando posibles brechas salariales y sus causas.
@@ -42,7 +42,7 @@ El objetivo principal de este proyecto, es analizar los datos brindados por el c
 
 
 
-#3. Herramientas y técnicas utilizadas
+# 3. Herramientas y técnicas utilizadas
 
 Para desarrollar el modelo, se hará uso del lenguaje de programación Python, y librerías del mismo.
 A continuación se detallan las principales librerías y prácticas a utilizar:
@@ -67,6 +67,6 @@ Además de estas herramientas mencionadas, se realizarán las siguientes transfo
 
 
 
-#4. Consideraciones éticas
+# 4. Consideraciones éticas
 En este modelo, he decidido **incluir tanto el sexo como la raza** en los datos a utilizar para entrenar el modelo. El razonamiento para llegar a esta decisión, se basa en la premisa de incluir la mayor cantidad de atributos disponibles en el dataset para ayudar a obtener una predicción más precisa en el modelo, dado que dichas características podrían, si bien no estar directamente relacionadas (No ser inherentes al sexo), sí podrían estar correlacionadas con patrones reales de ingreso, que podrían denotar una desigualdad estructural, o elecciones que tienden a tomar personas de un mismo sexo.
 No obstante, en el análisis de los datos, se generarán gráficas con el fin de comparar y reflexionar sobre los posibles sesgos que esto podría introducir en el modelo, y la posible existencia de inequidades de género o de discriminación en los ingresos en los Estados Unidos en el año 1994, y en la actualidad.
