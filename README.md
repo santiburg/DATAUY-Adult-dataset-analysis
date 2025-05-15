@@ -1,4 +1,4 @@
-#1. Introducción
+# 1. Introducción
 
 El presente trabajo, consiste en un análisis de datos, y modelado de una inteligencia artificial, a partir de un conjunto de datos denominado "adult", proveniente del [censo de los Estados Unidos en el año 1994](https://archive.ics.uci.edu/dataset/2/adult).
 
